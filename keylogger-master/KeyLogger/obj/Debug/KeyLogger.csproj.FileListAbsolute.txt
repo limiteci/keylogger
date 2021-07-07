@@ -1,7 +1,0 @@
-C:\Users\sirai\Desktop\repos\source\keylogger\keylogger-master\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
-C:\Users\sirai\Desktop\repos\source\keylogger\keylogger-master\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
-C:\Users\sirai\Desktop\repos\source\keylogger\keylogger-master\KeyLogger\KeyLogger\bin\Debug\KeyLogger.pdb
-C:\Users\sirai\Desktop\repos\source\keylogger\keylogger-master\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.AssemblyReference.cache
-C:\Users\sirai\Desktop\repos\source\keylogger\keylogger-master\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
-C:\Users\sirai\Desktop\repos\source\keylogger\keylogger-master\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
-C:\Users\sirai\Desktop\repos\source\keylogger\keylogger-master\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
